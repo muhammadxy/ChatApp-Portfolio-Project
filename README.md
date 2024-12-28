@@ -33,7 +33,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/muhammadxy/realtime-chat-app.git
+   https://github.com/muhammadxy/ChatApp-Portfolio-Project.git
    ```
 2. **Install Dependencies**:
    ```bash
