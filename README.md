@@ -1,4 +1,4 @@
-##Chat Application
+## Chat Application
 
 This is a dynamic and feature-rich real-time chat application built using cutting-edge technologies including Next.js, Tailwind CSS, NextAuth, MongoDB, LiveKit, and Socket.IO.
 
