@@ -49,5 +49,5 @@ Follow these steps to get a copy of the project up and running on your local mac
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
 
 ---
-## Watch intro Video.
+## Watch Introduction Video.
 ![video](https://screenapp.io/app/#/shared/8AdHKodYtX)
