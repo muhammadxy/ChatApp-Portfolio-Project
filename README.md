@@ -1,8 +1,9 @@
 ## Chat Application
 
 This is a dynamic and feature-rich real-time chat application built using cutting-edge technologies including Next.js, Tailwind CSS, NextAuth, MongoDB, LiveKit, and Socket.IO.
+This project is a dynamic, feature-rich, real-time chat application designed for seamless communication and an intuitive user experience. It leverages modern web development technologies to provide a robust and scalable solution. The application follows the MVC (Model-View-Controller) architectural pattern and is built as a Single-Page Application (SPA). Below are the core technologies and features of the project:
 
-![App-Poster](./public/assets/chat-app-poster.jpeg)
+![App-Poster](../public/assets/chat-app-poster.jpeg)
 
 ## Note
 The project URL may take a few minutes to load due to free-tier hosting limitations. We appreciate your patience.
@@ -33,7 +34,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/muhammadxy/ChatApp-Portfolio-Project.git
+   https://github.com/christianjeandidier/ChatApp-Portfolio-Project.git
    ```
 2. **Install Dependencies**:
    ```bash
